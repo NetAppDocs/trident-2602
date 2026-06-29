@@ -1,6 +1,7 @@
 ---
 settings:
   name: Trident
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
