@@ -30,7 +30,7 @@ The following three parameters need to be defined when creating a StorageClass:
 |===
 
 ==== Specify optional parameters
-You can pass optional backend parameters through the StorageClass. Define all optional values as strings in the StorageClass `parameters` section. For a complete list of backend parameters, see: link:trident-fsx-storage-backend.html#backend-advanced-configuration-and-examples[FSx for NetApp ONTAP backend configuration].
+You can pass optional backend parameters through the StorageClass. Define all optional values as strings in the StorageClass `parameters` section. For a complete list of backend parameters, see: link:trident-fsx-storage-backend.html#create-a-trident-backend-configuration-tbc-for-fsx-for-ontap[FSx for NetApp ONTAP backend configuration].
 
 ==== Example StorageClass configuration files.
 The following example shows a StorageClass that triggers automatic backend configuration.
